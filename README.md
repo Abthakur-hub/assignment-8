@@ -11,8 +11,7 @@
 | **Name**                | Abhishek Thakur                              |
 | **Registration Number** | 23MIM10078                    |
 | **Application Number**  | IN26011189                      |
-| **Batch Number**        | YOUR_BATCH_NUMBER                            |
-| **Course**              |  1A|
+| **Batch Number**        | 1A                           |
 | **University**          | VIT Bhopal University                        |
 
 ---
