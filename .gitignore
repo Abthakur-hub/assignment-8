@@ -1,0 +1,13 @@
+dataset/
+
+.ipynb_checkpoints/
+
+**pycache**/
+*.py[cod]
+
+.DS_Store
+
+.venv/
+venv/
+
+*.log
