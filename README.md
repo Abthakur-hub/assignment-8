@@ -1,10 +1,10 @@
-# 🧠 AI-ML Assignment 8
+# AI-ML Assignment 8
 
 ## Handwritten Digit Recognition using Artificial Neural Networks (ANN)
 
 ---
 
-# 👨‍🎓 Student Information
+#  Student Information
 
 | Field                   | Details                                      |
 | ----------------------- | -------------------------------------------- |
@@ -16,13 +16,13 @@
 
 ---
 
-# 📌 Objective
+# Objective
 
 The objective of this assignment is to develop an Artificial Neural Network (ANN) for recognizing handwritten digits (0–9) using the MNIST Handwritten Digits Dataset. The project demonstrates the complete machine learning workflow, including data understanding, preprocessing, model development, training, evaluation, and performance analysis using TensorFlow/Keras.
 
 ---
 
-# 📊 Dataset
+# Dataset
 
 **Dataset Name:** MNIST Handwritten Digits Dataset
 
@@ -34,7 +34,7 @@ The objective of this assignment is to develop an Artificial Neural Network (ANN
 
 ---
 
-# 📚 Libraries Used
+# Libraries Used
 
 * NumPy
 * Pandas
@@ -44,7 +44,7 @@ The objective of this assignment is to develop an Artificial Neural Network (ANN
 
 ---
 
-# ⚙️ Methodology
+# Methodology
 
 1. Load the MNIST dataset.
 2. Understand the dataset by displaying records and summary information.
@@ -61,7 +61,7 @@ The objective of this assignment is to develop an Artificial Neural Network (ANN
 
 ---
 
-# 🏗️ Model Architecture
+# Model Architecture
 
 | Layer          | Configuration        |
 | -------------- | -------------------- |
@@ -80,7 +80,7 @@ The objective of this assignment is to develop an Artificial Neural Network (ANN
 
 ---
 
-# 📈 Results
+# Results
 
 * Successfully trained an Artificial Neural Network on the MNIST dataset.
 * Achieved high handwritten digit classification accuracy.
@@ -94,13 +94,13 @@ The objective of this assignment is to develop an Artificial Neural Network (ANN
 
 ---
 
-# 📝 Conclusion
+# Conclusion
 
 The Artificial Neural Network successfully learned handwritten digit patterns from the MNIST dataset and achieved excellent classification performance. The hidden layers enabled the model to extract meaningful features, significantly improving prediction accuracy. Deep Learning offers automatic feature extraction, making it more effective than many traditional machine learning techniques. However, ANN models require larger datasets, more computational resources, and longer training times. Overall, the developed model proved to be accurate, efficient, and suitable for handwritten digit recognition tasks.
 
 ---
 
-# 📂 Repository Structure
+# Repository Structure
 
 ```text
 assignment-8/
@@ -113,7 +113,7 @@ assignment-8/
 
 ---
 
-# 🚀 How to Run
+# How to Run
 
 1. Clone the repository.
 2. Download the MNIST dataset from the Kaggle link.
